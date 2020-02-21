@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df483709-b584-42ad-86b5-b0fd562957fa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RWakPPa7gYH8kVIognAPWQkeWH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SortAlgos">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Jizhangbasic" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortAlgos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SortAlgos" />
+      <module name="Jizhangbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortAlgos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df483709-b584-42ad-86b5-b0fd562957fa" name="Default Changelist" comment="" />
+      <created>1569785447486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569785447486</updated>
+      <workItem from="1569785448707" duration="242000" />
+      <workItem from="1569785697678" duration="2000" />
+      <workItem from="1569787132113" duration="13113000" />
+      <workItem from="1569957028481" duration="406000" />
+      <workItem from="1569960215119" duration="802000" />
+      <workItem from="1570113485254" duration="177000" />
+      <workItem from="1570113804375" duration="26885000" />
+      <workItem from="1570411761225" duration="686000" />
+      <workItem from="1571006541915" duration="38000" />
+      <workItem from="1571006848062" duration="295000" />
+      <workItem from="1571068903143" duration="2455000" />
+      <workItem from="1571163275099" duration="7000" />
+      <workItem from="1571163284573" duration="9000" />
+      <workItem from="1572538358854" duration="103000" />
+      <workItem from="1572615031151" duration="1251000" />
+      <workItem from="1572988687399" duration="10000" />
+      <workItem from="1573595578266" duration="676000" />
+      <workItem from="1573599381991" duration="9000" />
+      <workItem from="1573755141011" duration="850000" />
+      <workItem from="1573923485397" duration="639000" />
+      <workItem from="1574007493013" duration="296000" />
+      <workItem from="1575410300815" duration="897000" />
+      <workItem from="1575993869399" duration="1061000" />
+      <workItem from="1575996782817" duration="38000" />
+      <workItem from="1580398680882" duration="31000" />
+      <workItem from="1580398728104" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
